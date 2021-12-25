@@ -1,0 +1,29 @@
+.redcolor{
+    color:rgb(255, 36, 36);
+}
+
+.img{
+    height:500px;
+    width:500px;
+}
+
+.ic{
+    height:5%;
+    width:5%;
+}
+.create{
+    height:250px;
+    width:250px;
+    border:solid 1px black
+}
+.user{
+    height: 100px;
+    width:250px;
+    border:solid 5px black;
+    margin-top:10px;
+    margin-bottom:10x;
+    margin-left:10px;
+    margin-right:10px;
+    font: size 18px;
+    font-family: cursive;
+}
